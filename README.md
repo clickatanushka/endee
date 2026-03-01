@@ -78,15 +78,13 @@ Swagger UI available for API testing.
 - Index creation: Working
 - Index listing: Working
 - Authentication: Working
-- Vector insertion: In progress
-- Vector search: In progress
+- Vector insertion: Working
+- Vector search: Progress/Working
 
 ---
 
 ## Future Work
 
-- Complete vector add endpoint
-- Implement vector search
 - Add persistence
 - Add better error handling
 - Improve documentation
